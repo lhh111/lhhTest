@@ -1,11 +1,13 @@
 {
     "name": "lhh/lhh-test",
+    "description": "test",
     "authors": [
         {
             "name": "看客",
             "email": "1300582537@qq.com"
         }
     ],
+    "license": "MIT",
     "minimum-stability": "dev",
     "require": {
         "php": ">=7.0"
